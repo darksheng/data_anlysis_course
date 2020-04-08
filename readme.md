@@ -7,3 +7,6 @@
 ## nanjing university is goog  for data analysis basic learing, provide a prefect guide for navice data analysts
 [vide0](www.bilibili.com/video/BV1Ej411f7dnij)
 ## this is  a test 
+
+## 发现南京大学的数据分析课程好强，都是和Python语言相关，就是个大宝藏，甚至由区块链技术。
+

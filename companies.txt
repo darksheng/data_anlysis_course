@@ -1,0 +1,4 @@
+"apple"
+"IBM"
+"lenove"
+"阿里巴巴"
